@@ -106,6 +106,7 @@ namespace Test_Average_T7_2
 
         private void exitButton_Click(object sender, EventArgs e)
         {
+            //This comment is a test for GitHub... IGNORE ME!
             this.Close();
         }
     }
